@@ -1,21 +1,35 @@
-👋 Hi, I’m Mohit Joshi — a passionate and dedicated Computer Engineering student currently pursuing my B.Tech, after completing a Diploma in Computer Engineering.
+<h1 align="center">Hi there, I'm Mohit Joshi 👋</h1>
 
-💻 I’m exploring the world of full-stack development, with hands-on experience in:
+<p align="center">
+  <b>Exploring Code | Building Products | Growing as a Full Stack Developer</b>
+</p>
 
-Frontend: HTML, CSS, JavaScript, React.js
+---
 
-Backend: Node.js, Express.js, ASP.NET (C#)
+## 🚀 About Me
 
-Databases: MySQL, MongoDB
+🎓 I’m currently pursuing my **B.Tech in Computer Engineering**, after completing a diploma in the same field.  
+💻 Passionate about **Web Development**, **Cloud Technologies**, and **Building Scalable Applications**.  
+📚 Continuously learning new technologies and frameworks to sharpen my skills.  
+🌱 Currently working on **React.js**, **Node.js**, and **ASP.NET (C#)** projects.  
+🤝 Open to collaboration, internships, and exciting opportunities in tech.
 
-Tools & Platforms: Git, GitHub, Visual Studio Code, ERPNext
+---
 
-📚 I’m also learning about Cloud Engineering, and interested in topics like DevOps, software architecture, and system design.
+## 🛠️ Tech Stack
 
-🚀 Currently working on personal and academic projects to improve my skills and build real-world solutions.
+- 💡 **Languages:** JavaScript, Dart, C#, HTML, CSS, C++
+- ⚙️ **Frameworks:** React.js, Node.js, Flutter, Express, ASP.NET
+- 🛢️ **Databases:** MongoDB, MySQL
+- 🔧 **Tools:** Git, GitHub, VS Code, Postman, ERPNext
+- ☁️ **Learning:** Cloud Engineering, DevOps
 
-📫 Let's connect:
+---
 
-LinkedIn: [your-link]
+## 📫 Connect With Me
 
-Email: [your-email]
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
+- 🧠 Portfolio / Website: [your-site.com](https://your-site.com)
+
+---
