@@ -11,7 +11,7 @@
 🎓 I’m currently pursuing my **B.Tech in Computer Engineering**, after completing a diploma in the same field.  
 💻 Passionate about **Web Development**, **Cloud Technologies**, and **Building Scalable Applications**.  
 📚 Continuously learning new technologies and frameworks to sharpen my skills.  
-🌱 Currently working on **React.js**, **Node.js**, and **ASP.NET (C#)** projects.  
+🌱 Currently working on **React.js** and **Node.js** projects.  
 🤝 Open to collaboration, internships, and exciting opportunities in tech.
 
 ---
