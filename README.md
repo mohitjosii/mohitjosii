@@ -18,18 +18,18 @@
 
 ## 🛠️ Tech Stack
 
-- 💡 **Languages:** JavaScript, Dart, C#, HTML, CSS, C++
-- ⚙️ **Frameworks:** React.js, Node.js, Flutter, Express, ASP.NET
-- 🛢️ **Databases:** MongoDB, MySQL
-- 🔧 **Tools:** Git, GitHub, VS Code, Postman, ERPNext
+- 💡 **Languages:** JavaScript, HTML, CSS, Jinja
+- ⚙️ **Frameworks:** React.js, Node.js, Frappe
+- 🛢️ **Databases:** MongoDB, MySQL, MariaDB
+- 🔧 **Tools:** Git, GitHub, VS Code, ERPNext
 - ☁️ **Learning:** Cloud Engineering, DevOps
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-- 🧠 Portfolio / Website: [your-site.com](https://your-site.com)
+- 📧 Email: mohitjoshi494@gmail.com
+- 💼 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/mohit-josii)  
+- 🧠 Portfolio / Website: comming soon
 
 ---
