@@ -18,18 +18,29 @@
 
 ## 🛠️ Tech Stack
 
-- 💡 **Languages:** JavaScript, HTML, CSS, Jinja
-- ⚙️ **Frameworks:** React.js, Node.js, Frappe
-- 🛢️ **Databases:** MongoDB, MySQL, MariaDB
-- 🔧 **Tools:** Git, GitHub, VS Code, ERPNext
-- ☁️ **Learning:** Cloud Engineering, DevOps
+### 💡 Languages  
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jinja](https://img.shields.io/badge/JINJA-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
----
+### 🧱 Frameworks  
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Frappe](https://img.shields.io/badge/FRAPPE-5271FF?style=for-the-badge&logo=frappe&logoColor=white)
 
-## 📫 Connect With Me
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-- 📧 Email: mohitjoshi494@gmail.com
-- 💼 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/mohit-josii)  
-- 🧠 Portfolio / Website: comming soon
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNEXT-3E82F7?style=for-the-badge&logo=frappe&logoColor=white)
 
----
+### ☁️ Currently Learning  
+![Cloud](https://img.shields.io/badge/CLOUD_ENGINEERING-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DevOps](https://img.shields.io/badge/DEVOPS-FF6C37?style=for-the-badge&logo=azuredevops&logoColor=white)
+
