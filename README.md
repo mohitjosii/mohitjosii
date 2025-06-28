@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Mohit Joshi 👋</h1>
 
+
 <p align="center">
-  <b>Exploring Code | Building Products | Growing as a Full Stack Developer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Exploring+Code+%7C+Building+Products+%7C+Growing+as+a+Full+Stack+Developer" alt="Typing Animation" />
 </p>
+
+
 
 ---
 
